@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A teacher from Antwerp</h3>
 
-- 🔭 I’m currently working on [my course website](teacher-svb.github.io)
+- 🔭 I’m currently working on [my course website](https://t-informatica.github.io)
 
 - 🌱 I’m currently learning about **Docker, Firebase and WSL**
 
